@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_name">
+        <item>Khanh</item>
+        <item>Huong</item>
+        <item>Tien</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="access_token">
+        <item>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2LTE1MDcwMjA5NjAiLCJpc3MiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2Iiwic3ViIjoiQUNlN2UxNWQ4MTNmM2QyYzFmMTE4ZDNjYjczYjZjYWZmNyIsImV4cCI6MTUwNzAyNDU2MCwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiS2hhbmgiLCJ2aWRlbyI6e319fQ.sCALLbNylSojw_G4exOivBA3n7PkR3illrdInfyTjN8</item>
+        <item> eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2LTE1MDcwMjEwMDAiLCJpc3MiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2Iiwic3ViIjoiQUNlN2UxNWQ4MTNmM2QyYzFmMTE4ZDNjYjczYjZjYWZmNyIsImV4cCI6MTUwNzAyNDYwMCwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiSHVvbmciLCJ2aWRlbyI6e319fQ.sxYZSD2hKWjgc3twrv29BIhl9blkBSmHumOMCR66Pk0</item>
+        <item>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2LTE1MDcwMjEwMjUiLCJpc3MiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2Iiwic3ViIjoiQUNlN2UxNWQ4MTNmM2QyYzFmMTE4ZDNjYjczYjZjYWZmNyIsImV4cCI6MTUwNzAyNDYyNSwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiVGllbiIsInZpZGVvIjp7fX19.-nqyEdTMHd81FAuBi7qW8NTY2-DSMZ-D_Ec7R0kkMNk</item>
+        <item>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2LTE1MDcwMjEwNDQiLCJpc3MiOiJTSzg2ZWVjN2ZjYWFkYTY4MTZjNzA3OTJjNTRjOWUwNjA2Iiwic3ViIjoiQUNlN2UxNWQ4MTNmM2QyYzFmMTE4ZDNjYjczYjZjYWZmNyIsImV4cCI6MTUwNzAyNDY0NCwiZ3JhbnRzIjp7ImlkZW50aXR5IjoiT3RoZXIiLCJ2aWRlbyI6e319fQ.Q3xTk-1zrA2-IS6XjvX-3gLOImV8oXT5BT-wRDhiRy8</item>
+    </string-array>
+</resources>

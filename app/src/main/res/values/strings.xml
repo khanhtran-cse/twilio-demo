@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twilio Demo</string>
+    <string name="hint_enter_room_name">Enter room name here &#8230;</string>
+    <string name="action_connect_to_room">Connect to room</string>
+    <string name="label_select_user">Choose a username</string>
+    <string name="error_invalid_room_name">Enter other name.</string>
+    <string name="error_no_data">No data</string>
+    <string name="label_connecting">Connecting &#8230;</string>
+    <string name="label_chat">Chat</string>
+    <string name="label_docs">Docs</string>
+    <string name="error_permission_need">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+</resources>
