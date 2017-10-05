@@ -15,12 +15,12 @@
             android:layout_width="match_parent"
             android:layout_height="300dp">
 
-            <VideoView
+            <com.twilio.video.VideoView
                 android:id="@+id/vv_teacher"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
-            <VideoView
+            <com.twilio.video.VideoView
                 android:id="@+id/vv_my_self"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
@@ -33,6 +33,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:gravity="center"
+                android:textColor="@color/colorWhite"
                 android:text="@string/label_connecting" />
         </RelativeLayout>
 
@@ -94,13 +95,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <android.support.v7.app.AlertController.RecycleListView
+            <android.support.v7.widget.RecyclerView
                 android:id="@+id/rv_chat"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
 
-            <android.support.v7.app.AlertController.RecycleListView
+            <android.support.v7.widget.RecyclerView
                 android:id="@+id/rv_docs"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />

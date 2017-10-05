@@ -9,4 +9,6 @@
     <string name="label_chat">Chat</string>
     <string name="label_docs">Docs</string>
     <string name="error_permission_need">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+    <string name="msg_participant_exit">%s disconnect.</string>
+    <string name="error_connect_failure">Connect failure.</string>
 </resources>
